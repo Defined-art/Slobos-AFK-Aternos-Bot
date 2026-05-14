@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Defined123.aternos.me
-",
+    "ip": "Defined123.aternos.me",
     "port": 56227,
     "version": "",
     "try-creative": false
